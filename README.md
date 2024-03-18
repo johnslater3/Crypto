@@ -1,2 +1,2 @@
 # Crypto
-This is a demo page for various cyrpto examples
+This is a demo page for various crypto examples
